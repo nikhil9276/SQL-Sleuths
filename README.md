@@ -1,1 +1,1 @@
-# SQL-Sleuths
+# Business Insights Dashboard 📊
