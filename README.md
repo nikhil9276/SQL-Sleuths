@@ -82,7 +82,7 @@ Monthly revenue trends ,Seasonal variations, Key revenue contributors Year-over-
 ![Home_Page](https://github.com/user-attachments/assets/5b388417-5860-4b93-9db3-804c8cbd8651)
 
 ## » Sales Analysis Page
-![Sales_Analysis_Page](https://github.com/user-attachments/assets/2ee238e4-4fc5-4e78-8620-78ddbc2f7ec7)
+![Screenshot (357)](https://github.com/user-attachments/assets/c8c4b319-3c41-4294-be42-0db8c76b6631)
 
 ## » Performance Page
 ![Performance_Page](https://github.com/user-attachments/assets/7eeb0e82-3786-4b0e-af95-afff6aadead6)
