@@ -3,6 +3,12 @@
  ## Introduction:-
  This Power BI dashboard provides an interactive and data-driven approach to analyzing sales performance. It offers insights into key metrics such as total sales, profit margins, sales target achievement, and reseller contributions. By visualizing data across different countries, products, and salespersons, this dashboard helps in making informed business decisions.
 
+ ## 🎥 Quick Video Preview
+ 
+ https://youtu.be/TPczvI69b08
+
+
+
 ## Key Features
 ✅ Sales Performance Metrics: Track sales growth, achievement rates, and average sales per salesperson.
 
