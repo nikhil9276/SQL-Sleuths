@@ -18,3 +18,18 @@
 The goal of this project is to enable businesses to monitor sales trends effectively and improve decision-making by leveraging Power BI’s dynamic reporting capabilities.
 
 
+ # Directory Structure-->>>
+ SQL-Sleuths/
+ 
+│── Cleaned_csv_data/
+
+│── DASHBOARD_SCREENSHOTS/
+
+│── CWP-Logo (1).jpg
+
+│── README.md
+
+│── SQL-Sleuths.ipynb
+
+│── SQL-Sleuths.pbix
+
